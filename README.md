@@ -6,7 +6,7 @@ Personal offline Android app for learning pig-carcass classification.
 
 Open this link in the phone browser:
 
-https://github.com/auro007/klassenklar/releases/download/v1.2.1/Klassenklar.apk
+https://github.com/auro007/klassenklar/releases/download/v1.3.0/Klassenklar.apk
 
 ## Install
 
@@ -15,4 +15,4 @@ https://github.com/auro007/klassenklar/releases/download/v1.2.1/Klassenklar.apk
 3. Do not uninstall the old app first. Uninstalling deletes the progress saved on the phone.
 4. Android 8.0 or newer is required.
 
-Version 1.2.1 fixes the blank white screen and the broken German letters. Lessons work offline. Trainer groups stay on the computer version.
+Version 1.3.0 adds the October training-note questions, optional Romanian lines under the questions, and Romanian lesson explanations. Lessons work offline. Trainer groups stay on the computer version.
